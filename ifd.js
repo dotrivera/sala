@@ -1,3 +1,5 @@
+alert("El JavaScript se cargó correctamente");
+
 const accordionHeaders = document.querySelectorAll('.accordion-header');
 
 accordionHeaders.forEach(header => {
